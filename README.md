@@ -4,10 +4,10 @@ RR project prepared by: Yuqing Liu(QF), Filipe Alexandre De Sousa Correia(QF),  
 ### PRE Link
 https://www.canva.com/design/DAGDKXHzg_g/3t_lt50fitsJuiLsjyIewQ/edit
 
-
-### Results of the meeting hold on 24.05.2024
-1) adding bitcoin and  as an alternative assets
-2) downloade a new data to repo
-3) downloade a paper
-4) Colab >> https://colab.research.google.com/drive/1A0S-yVQuk9IzbI8HsswoSrKBQZwLxKa9?usp=sharing
+### Results of the meeting held on 24.05.2024
+1) Literature Review and Analysis;
+2) Adding Bitcoin and 1-Year U.S. Treasury Bond as alternative assets (3 assets with different risk profiles);
+3) Upload new data to the repository;
+4) Dependencies Loading, Data Preparation, EDA;
+5) Colab >> https://colab.research.google.com/drive/1A0S-yVQuk9IzbI8HsswoSrKBQZwLxKa9?usp=sharing
 
