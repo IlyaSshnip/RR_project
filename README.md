@@ -9,6 +9,7 @@ https://www.canva.com/design/DAGDKXHzg_g/3t_lt50fitsJuiLsjyIewQ/edit
 2) Adding Bitcoin and 1-Year U.S. Treasury Bond as alternative assets (3 assets with different risk profiles);
 3) Upload new data to the repository;
 4) Dependencies Loading, Data Preparation, EDA;
+5) https://colab.research.google.com/drive/1BjmCZfZejh0ytwZlnS-_1jRJpCbbx4lp?usp=sharing
 
 
 
