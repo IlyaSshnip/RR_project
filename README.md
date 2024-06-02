@@ -14,5 +14,5 @@ https://www.canva.com/design/DAGDKXHzg_g/3t_lt50fitsJuiLsjyIewQ/edit
 ### Results of the meeting held on 30.05.2024
 1) **Review:** Dependencies Loading, Data Preparation, EDA;
 2) Add the some points in Statistical Analysis (part of EDA);
-3) **Discuss feature engineering:** crucial points and discuss possible improvements for a more robust model;
+3) **Feature engineering:** crucial points and discuss possible improvements for a more robust model;
 4) **Discuss modeling:** Methods used for volatility modeling - GARCH, EGARCH, apARCH, TGARCH.
