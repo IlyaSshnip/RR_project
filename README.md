@@ -15,6 +15,8 @@ This project evaluates the market risk of three key financial assets with differ
 # Dataset Description
 The dataset includes 52 columns with financial and macroeconomic variables, focusing primarily on the S&P 500, Bitcoin, and the 1-Year U.S. Treasury Bond. The dataset starts in May 1, 2014 to May 1, 2024.
 
+# Additional Information
+
 ### Pre-Link
 https://www.canva.com/design/DAGDKXHzg_g/3t_lt50fitsJuiLsjyIewQ/edit
 
