@@ -39,16 +39,16 @@ To execute the code separately, run the following scripts:
 `python data_preparation.py`
 
 5. EDA
-`EDA.py`
+`python EDA.py`
 
 6. Feature Engineering
-`feature_engineering.py`
+`python feature_engineering.py`
 
 7. VaR Models - run this script:
-`var_models.py`
+`python var_models.py`
 
 **To execute the full code**, run the following script:
-`full_code.py`
+`python full_code.py`
 
 # Additional Information
 
