@@ -25,8 +25,8 @@ cd RR_project`
 
 2. Create a virtual environment to manage your dependencies:
 
-`python3 -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate``
+`python3 -m venv env`
+source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 3. Install Dependencies
 
@@ -34,6 +34,8 @@ source env/bin/activate  # On Windows use `env\Scripts\activate``
 
 ## Run the Project:
 First download the scripts. To execute the code separately, run the following scripts:
+
+cd "Downloads/Users/path.."
 
 4. Data Preparation
 `python data_preparation.py`
