@@ -1,5 +1,23 @@
-# RR_project
-RR project prepared by: Yuqing Liu(QF), Filipe Alexandre De Sousa Correia(QF),  Niyetali Kaliyev(QF),  Ilya Shnip(QF)
+# Project Details
+**Authors:** Yuqing Liu(QF), Filipe Alexandre De Sousa Correia(QF),  Niyetali Kaliyev(QF),  Ilya Shnip(QF)
+**University:** University of Warsaw
+**Project Title:**: Market Risk Modelling for S&P 500, Bitcoin, and 1-Year U.S. Treasury Bond using VaR metrics
+
+# Overview
+This project evaluates the market risk of three key financial assets with different risk profiles: the S&P 500, Bitcoin, and the 1-Year U.S. Treasury Bond. The evaluation uses various Value at Risk (VaR) metrics over a decade-long period from May 1, 2014, to May 1, 2024.
+
+# Main Components:
+- Historical VaR
+- Parametric VaR
+- Monte Carlo VaR
+- Expected Shortfall (ES)/Conditional VaR
+
+# Dataset Description
+The dataset includes 52 columns with financial and macroeconomic variables, focusing primarily on the S&P 500, Bitcoin, and the 1-Year U.S. Treasury Bond. The dataset starts in May 1, 2014 to May 1, 2024.
+
+# Setting Up the Environment
+The project was developed using Python and Anaconda, making Anaconda the recommended environment for running this project.
+
 
 ### Pre-Link
 https://www.canva.com/design/DAGDKXHzg_g/3t_lt50fitsJuiLsjyIewQ/edit
