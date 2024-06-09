@@ -20,7 +20,7 @@ https://www.canva.com/design/DAGDKXHzg_g/3t_lt50fitsJuiLsjyIewQ/edit
 4) **Discuss modeling:** Methods used for volatility modeling - GARCH, EGARCH, apARCH, TGARCH;
 5) **Discuss VaR metrics and validation:** MC VaR, HVaR, Parametric, CVaR.
 
-### Results of the meeting held on 09.05.2024
+### Results of the meeting held on 09.06.2024
 **Discuss final steps:**
 1) Final file, with some adjustments :)
 2) Uploading the presentation.
