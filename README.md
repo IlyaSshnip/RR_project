@@ -15,7 +15,47 @@ This project evaluates the market risk of three key financial assets with differ
 # Dataset Description
 The dataset includes 52 columns with financial and macroeconomic variables, focusing primarily on the S&P 500, Bitcoin, and the 1-Year U.S. Treasury Bond. The dataset starts in May 1, 2014 to May 1, 2024.
 
+# Project Setup
+The project was created using Anaconda, therefore it is advised to use Anaconda to run this project. 
+
+1. Clone the Repository to your local machine.
+
+`git clone https://github.com/IlyaSshnip/RR_project.git
+cd RR_project`
+
+2. Create a virtual environment to manage your dependencies:
+
+`python3 -m venv env
+source env/bin/activate  # On Windows use `env\Scripts\activate``
+
+3. Install Dependencies
+
+`pip install pandas numpy matplotlib seaborn statsmodels pandas_datareader scipy`
+
+## Run the Project:
+To execute the code separately, run the following scripts:
+
+4. Data Preparation
+`python data_preparation.py`
+
+5. EDA
+`EDA.py`
+
+6. Feature Engineering
+`feature_engineering.py`
+
+7. VaR Models - run this script:
+`var_models.py`
+
+To execute the full code, run the following script:
+`full_code.py`
+
 # Additional Information
+
+### Folders:
+**scripts**: contains the scripts you will execute.
+**dataset**: contains the historical data (10y) for S&P500, Bitcoin and 1Y US Treasury Bond.
+**history**: contains papers and attempts using garch models (garch, egarch, tgarch, aparch), which were excluded from the main code.
 
 ### Pre-Link
 https://www.canva.com/design/DAGDKXHzg_g/3t_lt50fitsJuiLsjyIewQ/edit
