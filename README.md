@@ -35,7 +35,7 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 ## Run the Project:
 First download the scripts. To execute the code separately, run the following scripts:
 
-cd "Downloads/Users/path.."
+`cd "Downloads/Users/path.."`
 
 4. Data Preparation
 `python data_preparation.py`
