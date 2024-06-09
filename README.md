@@ -33,7 +33,7 @@ source env/bin/activate  # On Windows use `env\Scripts\activate``
 `pip install pandas numpy matplotlib seaborn statsmodels pandas_datareader scipy`
 
 ## Run the Project:
-To execute the code separately, run the following scripts:
+First download the scripts. To execute the code separately, run the following scripts:
 
 4. Data Preparation
 `python data_preparation.py`
